@@ -18,35 +18,6 @@ The solution simulates the responsibilities of a data analyst at a retail compan
 
 ---
 
-## 📂 Folder Structure
-Solving-Inventory-Inefficiencies-Using-Advanced-SQL-Analytics/
-│
-├── exports/                   # CSV exports of tables and views
-│   ├── fact_inventory.csv
-│   ├── vw_inventory_gap.csv
-│   ├── vw_overstock_analysis.csv
-│   └── …
-│
-├── notebooks/                # Jupyter notebooks for EDA and dashboards
-│   ├── data_cleaning.ipynb
-│   └── dashboard_inventory_csv.ipynb
-│
-├── sql_scripts/              # Raw SQL scripts for table creation and querying
-│   └── create_tables.sql
-│
-├── sql_views/                # Individual .sql files for each SQL view
-│   ├── vw_inventory_gap.sql
-│   ├── vw_days_inventory_left.sql
-│   └── …
-│
-├── erd/
-│   └── schema.png            # Entity Relationship Diagram
-│
-├── executive_summary.txt     # Final 2-page report with key insights and recommendations
-              
-└── README.md 
----
-
 ## 🧠 Key Features
 
 - **Data Cleaning & EDA:** Processed 100k+ rows of inventory data using pandas and visualized trends using Plotly, Seaborn, and Matplotlib.
