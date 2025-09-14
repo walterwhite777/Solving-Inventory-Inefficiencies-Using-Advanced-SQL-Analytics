@@ -1,4 +1,5 @@
-# Solving Inventory Inefficiencies Using Advanced SQL Analytics
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+### Solving Inventory Inefficiencies Using Advanced SQL Analytics
 
 ## 🛒 Project Overview
 
@@ -87,3 +88,5 @@ _See screenshots in the Jupyter notebook or executive summary._
 This project is for educational and demonstration purposes as part of a summer project on retail inventory optimization. Please feel free to fork, contribute, or reuse with attribution.
    ---
 
+## License
+This project is licensed under the [MIT License](LICENSE).
